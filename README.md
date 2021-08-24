@@ -1,5 +1,5 @@
 # Projeto-Clone-Netflix
-This project is a simplified front end clone of Netflix. It was created with React and CSS. It uses The THEMOVIEDB Api.
+This project is a simplified front end clone of Netflix. It was created with React, CSS and JavaScript. It uses The THEMOVIEDB Api.
 
 # Runing Project Locally
 * Install dependencies: run npm install in root project
