@@ -8,3 +8,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 * Get API key from here https://www.themoviedb.org/settings/api
 * In root project and add: API_KEY=YOUR_API_KEY_HERE
 * Run project: npm start
+
+### Video Walktrough 
+
+![](https://github.com/gabrielwillz/Projeto-Clone-Netflix/blob/master/Netflix-Demo.gif?raw=true)
